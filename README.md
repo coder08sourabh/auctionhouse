@@ -24,6 +24,8 @@ Our vision is to create the go-to marketplace for high-value digital goods by pr
 
 ## Key Features
 
+
+
 1. **Secure Escrow System**: NFTs are held in escrow by the smart contract during the auction period, ensuring safe transfer between seller and winning bidder.
 
 2. **Reserve Price Mechanism**: Sellers can set minimum acceptable prices, protecting them from selling below desired values.
@@ -59,3 +61,4 @@ Our vision is to create the go-to marketplace for high-value digital goods by pr
 9. **Private Auctions**: Enable invite-only auction rooms for exclusive digital goods.
 
 10. **Integration with Metaverse Platforms**: Allow purchased NFTs to be seamlessly displayed in various metaverse environments.
+11. contact details: 0xAF99F08Cd8c918261762F3907cD5A9C5bA1d23E4
